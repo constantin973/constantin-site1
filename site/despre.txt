@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Despre — Texte pentru când ai un minut</title>
+    <meta name="description" content="Despre autor, despre felul în care se nasc textele și proiectele vizuale.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <div class="logo">C</div>
+            <nav class="nav">
+                <a href="index.html">Home</a>
+                <a href="texte.html">Texte</a>
+                <a href="despre.html" class="nav-active">Despre</a>
+                <a href="proiecte.html">Proiecte</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="section">
+            <div class="container grid-2">
+                <div>
+                    <h1 class="text-title">Despre</h1>
+                    <p class="text-body">
+                        Aici poți pune textul tău personal: cine ești, ce te interesează, 
+                        de ce scrii și de ce te uiți atent la lucrurile mici.
+                    </p>
+                </div>
+                <div class="card">
+                    <p class="card-body">
+                        Un spațiu pentru o notă mai personală, o frază care să rămână, 
+                        sau o idee despre cum vezi textele și imaginile împreună.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

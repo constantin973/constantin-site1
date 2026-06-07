@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Texte pentru când ai un minut</title>
+    <meta name="description" content="Texte observative, proiecte vizuale și fragmente din viața de zi cu zi.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <div class="logo">C</div>
+            <nav class="nav">
+                <a href="index.html">Home</a>
+                <a href="texte.html">Texte</a>
+                <a href="despre.html">Despre</a>
+                <a href="proiecte.html">Proiecte</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="section">
+            <div class="container">
+                <h1 class="text-title">Texte pentru când ai un minut</h1>
+                <p class="text-body">
+                    Texte observative, proiecte vizuale și fragmente din viața de zi cu zi. 
+                    Un spațiu calm, fără grabă, pentru lucruri mici care rămân.
+                </p>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
