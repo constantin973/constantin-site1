@@ -2,49 +2,54 @@
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
-    <title>Texte — Texte pentru când ai un minut</title>
-    <meta name="description" content="Texte observative, scurte, pentru când ai un minut de liniște.">
+    <title>Texte</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <header class="site-header">
-        <div class="container header-inner">
-            <div class="logo">C</div>
-            <nav class="nav">
-                <a href="index.html">Home</a>
-                <a href="texte.html" class="nav-active">Texte</a>
-                <a href="despre.html">Despre</a>
-                <a href="proiecte.html">Proiecte</a>
-                <a href="contact.html">Contact</a>
-            </nav>
-        </div>
-    </header>
 
-    <main>
-        <section class="section">
-            <div class="container">
-                <h1 class="text-title">Texte</h1>
-                <p class="text-body">
-                    O selecție de texte scurte, observative, pentru momentele în care ai un minut liber.
-                </p>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="texte.html">Texte</a>
+        <a href="despre.html">Despre</a>
+        <a href="proiecte.html">Proiecte</a>
+        <a href="contact.html">Contact</a>
+    </nav>
 
-                <div class="grid-3">
-                    <div class="card">
-                        <h2 class="card-title">[Titlu text 1]</h2>
-                        <p class="card-body">Descriere scurtă sau început de text.</p>
-                    </div>
-                    <div class="card">
-                        <h2 class="card-title">[Titlu text 2]</h2>
-                        <p class="card-body">Descriere scurtă sau început de text.</p>
-                    </div>
-                    <div class="card">
-                        <h2 class="card-title">[Titlu text 3]</h2>
-                        <p class="card-body">Descriere scurtă sau început de text.</p>
-                    </div>
-                    <!-- Poți adăuga mai multe carduri după nevoie -->
-                </div>
-            </div>
-        </section>
-    </main>
+    <h1>Texte pentru când ai un minut</h1>
+    <p>Texte observative, proiecte vizuale și fragmente din viața de zi cu zi.</p>
+
+    <!-- CARDUL TĂU -->
+    <div class="card">
+        <img src="instanta-instabilitate.jpeg" alt="Instanța de Instabilitate" class="card-image">
+
+        <h2>Instanța de Instabilitate</h2>
+
+        <p><em>„Totul funcționa până când a început să funcționeze altfel.”</em></p>
+
+        <p>
+            Coridorul era lung și drept. Luminat uniform de tuburi fluorescente. Monitoarele montate pe pereți, la distanțe egale,
+            afișau mesaje scurte: „ACCES PERMIS”, „ACCES INTERZIS”, „AȘTEPTAȚI”, „URMĂTORUL”. Se schimbau la intervale neregulate.
+            Fără ritm. Fără tipar.
+        </p>
+
+        <p>
+            Oamenii reacționau diferit: unii se opreau brusc, alții accelerau. Alții ignorau complet instrucțiunile. Fluxul lor devenea
+            fragmentat, contradictoriu. Ca un organism colectiv fără coordonare internă.
+        </p>
+
+        <p>
+            În mijlocul coridorului, un tânăr privea un monitor anume. Își fixa privirea. Căuta o regularualitate: durata mesajelor,
+            succesiunea lor, intensitatea luminii. Cu cât analiza mai atent, cu atât simțea că instabilitatea nu era o eroare, ci o
+            caracteristică a sistemului.
+        </p>
+
+        <!-- (textul tău continuă aici, exact cum ți l-am pus în cardul anterior) -->
+
+        <p>
+            În aceeași secundă monitorul își schimbă afișajul: „PROCESARE FINALIZATĂ: AȘTEPTAȚI”.
+        </p>
+    </div>
+
 </body>
 </html>
